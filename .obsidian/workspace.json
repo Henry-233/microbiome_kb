@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/papers/Roslund 2020 - Biodiversity intervention enhances immune regulation.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roslund 2020 - Biodiversity intervention enhances immune regulation"
+              "title": "index"
             }
           }
         ]
@@ -187,16 +187,17 @@
   },
   "active": "5f409ef17de617f5",
   "lastOpenFiles": [
+    "wiki/concepts/IL-10 IL-17A Ratio.md",
+    "wiki/concepts/Gammaproteobacteria.md",
+    "wiki/concepts/Environmental Microbiota Exposure.md",
+    "wiki/concepts/Biodiversity Hypothesis.md",
+    "wiki/concepts/Alpha Diversity.md",
+    "wiki/papers/Roslund 2020 - Biodiversity intervention enhances immune regulation.md",
     "wiki/concepts/Pattern Recognition Receptors.md",
     "wiki/concepts/Short-Chain Fatty Acids.md",
     "wiki/concepts/TGF-beta1.md",
-    "wiki/concepts/Environmental Microbiota Exposure.md",
     "wiki/concepts/Immune-Mediated Diseases.md",
-    "wiki/concepts/Alpha Diversity.md",
-    "wiki/concepts/IL-10 IL-17A Ratio.md",
-    "wiki/concepts/Gammaproteobacteria.md",
     "wiki/concepts/Regulatory T Cells (Treg).md",
-    "wiki/concepts/Biodiversity Hypothesis.md",
     "prompts.md",
     "CLAUDE.md",
     "欢迎.md",
