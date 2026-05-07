@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import PyPDF2; print\\('PyPDF2 available'\\)\")",
+      "Bash(python3 -c \"import pdfplumber; print\\('pdfplumber available'\\)\")",
+      "Bash(python3 -c \"import pikepdf; print\\('pikepdf available'\\)\")",
+      "Bash(pip3 install *)",
+      "Bash(pdftotext -layout \"raw/papers/Roslund 等 - 2020 - Biodiversity intervention enhances immune regulation and health-associated commensal microbiota amon.pdf\" /tmp/roslund2020.txt)",
+      "Read(//tmp/**)",
+      "Bash(pdftotext -layout \"raw/papers/Roslund 等 - 2020 - Biodiversity intervention enhances immune regulation and health-associated commensal microbiota amon.pdf\" roslund2020.txt)"
+    ]
+  }
+}

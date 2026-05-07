@@ -11,26 +11,14 @@
             "id": "5f409ef17de617f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/papers/Roslund 2020 - Biodiversity intervention enhances immune regulation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
-            }
-          }
-        ]
-      },
-      {
-        "id": "abd134fea2b37e29",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "af5b4de52e328244",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Roslund 2020 - Biodiversity intervention enhances immune regulation"
             }
           }
         ]
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "prompts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "prompts 的反向链接列表"
             }
           },
           {
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "prompts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "prompts 的出链列表"
             }
           },
           {
@@ -166,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "prompts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "prompts 的大纲"
             }
           }
         ]
@@ -190,13 +180,26 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eab313384ebb034e",
+  "active": "5f409ef17de617f5",
   "lastOpenFiles": [
+    "wiki/concepts/Pattern Recognition Receptors.md",
+    "wiki/concepts/Short-Chain Fatty Acids.md",
+    "wiki/concepts/TGF-beta1.md",
+    "wiki/concepts/Environmental Microbiota Exposure.md",
+    "wiki/concepts/Immune-Mediated Diseases.md",
+    "wiki/concepts/Alpha Diversity.md",
+    "wiki/concepts/IL-10 IL-17A Ratio.md",
+    "wiki/concepts/Gammaproteobacteria.md",
+    "wiki/concepts/Regulatory T Cells (Treg).md",
+    "wiki/concepts/Biodiversity Hypothesis.md",
     "prompts.md",
     "CLAUDE.md",
+    "欢迎.md",
     "log.md",
     "index.md",
     "output",
@@ -208,7 +211,6 @@
     "wiki",
     "raw/assets",
     "raw/clinical",
-    "raw/videos",
-    "欢迎.md"
+    "raw/videos"
   ]
 }
